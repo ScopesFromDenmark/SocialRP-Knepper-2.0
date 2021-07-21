@@ -3,7 +3,7 @@ import sys
 import requests
 
 
-url = "https://primerose.xyz/register"
+url = "socialrp.dk/register"
 
 data = {
 '_token': 'TTasay95nGjLIRl4mBeo5EXOwBnfFTy2PCdbpnC6',
